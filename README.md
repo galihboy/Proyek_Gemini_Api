@@ -12,4 +12,5 @@ Proyek ini adalah implementasi API Google Gemini untuk membangun sistem dialog i
 
 Repositori ini cocok untuk pengembang pemula yang ingin memahami cara menggunakan Google Gemini untuk pemrosesan bahasa alami.
 
-http://blog.galih.eu
+Tutorial:
+https://blog.galih.eu/memanfaatkan-api-google-gemini-untuk-membangun-dialog-interaktif-panduan-untuk-pemula 
