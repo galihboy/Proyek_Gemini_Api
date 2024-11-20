@@ -1,2 +1,15 @@
 # Proyek_Gemini_Api
-Proyek ini adalah implementasi API Google Gemini untuk membangun sistem dialog interaktif.
+## "Google Gemini API: Interactive Dialogue Implementation"
+
+**Deskripsi:**
+Proyek ini adalah implementasi API Google Gemini untuk membangun sistem dialog interaktif. 
+
+**Repositori mencakup:**
+- Contoh koneksi ke API Google Gemini.
+- Contoh kode untuk membangun chatbot berbasis pertanyaan dan jawaban.
+- Panduan penggunaan API untuk pemula.
+- Studi kasus sederhana, seperti bot untuk FAQ atau pencarian informasi.
+
+Repositori ini cocok untuk pengembang pemula yang ingin memahami cara menggunakan Google Gemini untuk pemrosesan bahasa alami.
+
+http://blog.galih.eu
