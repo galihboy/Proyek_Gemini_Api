@@ -2,9 +2,6 @@
  
 import google.generativeai as genai
 
-# Token API ditulis langsung di sini untuk kemudahan (tidak disarankan untuk produksi)  
-API_KEY = "AIzaSyBomyKrBlHUaRkzLf7Iu4aJEcibhxgneM4"  
-
 # Konfigurasikan API Key Anda
 API_KEY = "API_KEY_ANDA"  
 
